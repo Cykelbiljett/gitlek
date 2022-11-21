@@ -17,7 +17,7 @@ testar om **bold** funkar
 >
 >> ja det gör det
 
-> #### stor text?
+> ## stor text?
 >
 > - blev de en plupp nu
 > - nu tror jag det blev *sne* text
