@@ -16,3 +16,9 @@ testar om **bold** funkar
 > Testa om detta funkar
 >
 >> ja det gör det
+
+> #### stor text?
+>
+> - blev de en plupp nu
+> - nu tror jag det blev *sne* text
+> - det här borde bli **tjockis** text
